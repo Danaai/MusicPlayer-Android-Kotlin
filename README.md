@@ -56,5 +56,5 @@ The app follows MVVM architecture:
 
 Home:
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/03354956-2f30-45b9-8b74-df1c87c83d93" />
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/03354956-2f30-45b9-8b74-df1c87c83d93" />
 
