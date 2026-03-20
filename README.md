@@ -54,7 +54,41 @@ The app follows MVVM architecture:
 
 ## 📸 Demo
 
+User:
+
 Home:
 
 <img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/03354956-2f30-45b9-8b74-df1c87c83d93" />
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/5218674a-a559-4654-a195-23e99f6f2a42" />
+
+PlaySong:
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/8730c083-9759-4b48-b22e-c12ffa7fa384" />
+
+Details:
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/20ec04d9-7a1b-469a-8ab1-8001727dd538" />
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/8266b1b3-d699-4e42-bd6c-b47c24e2b705" />
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/4e499965-dda4-4fdd-b0cb-fc346a57064a" />
+
+
+Library:
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/3eac104d-901d-41e2-bf39-a9c8a92fb450" />
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/e0ab12e8-3dd8-481a-bdc6-fe666cf04d52" />
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/bacba81a-1abe-4324-9538-95a135b68470" />
+
+Settings:
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/0ad635f7-8cc6-4461-9ea5-4ea43dddb988" />
+
+<img width="270" height="600" alt="image" src="https://github.com/user-attachments/assets/d09f00cc-ccd0-4f14-b64a-7d3d79633bd0" />
+
+
+
 
