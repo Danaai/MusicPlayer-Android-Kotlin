@@ -43,15 +43,15 @@ The app follows MVVM architecture:
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here – cực kỳ quan trọng)
-
----
-
 ## 🎯 Key 
 
 * Designed and implemented music player UI
 * Integrated Room database for local data persistence
 * Built CRUD system for music management (Admin + User)
 * Applied MVVM architecture for clean and scalable code
+
+---
+
+## 📸 Demo
+
+
